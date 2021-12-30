@@ -1,1 +1,1 @@
-Hello from the other side of Nekultivisan.
+This is first game I have ever made with JS. 
